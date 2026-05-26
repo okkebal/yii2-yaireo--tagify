@@ -5,7 +5,7 @@ Yii2 widget wrapping [@yaireo/tagify](https://github.com/yairEO/tagify) v4 — l
 ## Installation
 
 ```bash
-composer require okkebal/yii2-tagify
+composer require okkebal/yii2-yaireo-tagify
 ```
 
 Or for local development, add to `composer.json`:
@@ -16,7 +16,7 @@ Or for local development, add to `composer.json`:
         { "type": "path", "url": "/var/www/yii2-yaireo--tagify" }
     ],
     "require": {
-        "okkebal/yii2-tagify": "*"
+        "okkebal/yii2-yaireo-tagify": "*"
     }
 }
 ```

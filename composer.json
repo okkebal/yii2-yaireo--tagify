@@ -1,5 +1,5 @@
 {
-    "name": "okkebal/yii2-yaireo--tagify",
+    "name": "okkebal/yii2-yaireo-tagify",
     "description": "Tagify widget for Yii2 Framework — lightweight, powerful tags/select input by @yaireo",
     "keywords": [
         "yii2",
@@ -10,7 +10,7 @@
         "autocomplete",
         "select"
     ],
-    "homepage": "https://github.com/okkebal/yii2-yaireo--tagify",
+    "homepage": "https://github.com/okkebal/yii2-yaireo-tagify",
     "type": "yii2-extension",
     "license": "MIT",
     "authors": [
@@ -20,8 +20,8 @@
         }
     ],
     "support": {
-        "issues": "https://github.com/okkebal/yii2-yaireo--tagify/issues",
-        "source": "https://github.com/okkebal/yii2-yaireo--tagify"
+        "issues": "https://github.com/okkebal/yii2-yaireo-tagify/issues",
+        "source": "https://github.com/okkebal/yii2-yaireo-tagify"
     },
     "require": {
         "php": ">=7.4",
