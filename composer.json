@@ -1,0 +1,42 @@
+{
+    "name": "okkebal/yii2-tagify",
+    "description": "Tagify widget for Yii2 Framework — lightweight, powerful tags/select input by @yaireo",
+    "keywords": [
+        "yii2",
+        "tagify",
+        "tags",
+        "widget",
+        "input",
+        "autocomplete",
+        "select"
+    ],
+    "homepage": "https://github.com/okkebal/yii2-yaireo--tagify",
+    "type": "yii2-extension",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Menno Oenema",
+            "email": "menno@logitrade.nl"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/okkebal/yii2-yaireo--tagify/issues",
+        "source": "https://github.com/okkebal/yii2-yaireo--tagify"
+    },
+    "require": {
+        "php": ">=7.4",
+        "yiisoft/yii2": "~2.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "okkebal\\tagify\\": "src/"
+        }
+    },
+    "extra": {
+        "bootstrap": "okkebal\\tagify\\Bootstrap"
+    },
+    "config": {
+        "sort-packages": true
+    },
+    "minimum-stability": "stable"
+}
